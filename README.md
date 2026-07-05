@@ -93,22 +93,6 @@ Sou de Ribeirão Preto – SP e estou em constante busca por crescimento profiss
 - **Análise e Resolução de Problemas**
 - **Suporte Interno em Sistemas ERP (TOTVS Consinco)**
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Caique-Siilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
-
-<br><br><br><br><br><br><br><br><br>
-
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-silva-59aa75291)  
